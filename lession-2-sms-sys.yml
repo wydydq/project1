@@ -1,5 +1,5 @@
 tony:
-  configString: 哈哈蛤
+  configString: 哈哈蛤1
 server:
   port: 9002
 # 使得/refresh不需要验权,引入包actuator
