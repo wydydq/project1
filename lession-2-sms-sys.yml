@@ -12,6 +12,6 @@ spring:
     username: guest
     password: '{cipher}b633dce6a4d25941bea60d3a568072b0c11e7ace87d43b61af5527b42679d6ce'
 redis:
-  host: 192.168.1.101
+  host: 192.168.1.102
   port: 6379
   password: chenghuikeji
