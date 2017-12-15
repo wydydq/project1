@@ -1,2 +1,8 @@
 tony:
   configString: 哈哈蛤
+server:
+  port: 9002
+# 使得/refresh不需要验权,引入包actuator
+management:
+  security:
+    enabled: false
