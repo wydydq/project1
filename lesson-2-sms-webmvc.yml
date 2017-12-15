@@ -1,6 +1,6 @@
 
 tony:
-  configString: 哈哈蛤1
+  configString: 1111
 # 使得/refresh不需要验权,引入包actuator
 management:
   security:
